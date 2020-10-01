@@ -1,2 +1,2 @@
 # Pillow_module
-Editing image using  with python Pillow module
+Editing image using python Pillow module
